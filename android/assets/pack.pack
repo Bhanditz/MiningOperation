@@ -1,0 +1,1573 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Menu3
+  rotate: false
+  xy: 1, 311
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+MOMenu1
+  rotate: false
+  xy: 1, 250
+  size: 198, 59
+  orig: 198, 59
+  offset: 0, 0
+  index: -1
+DescCollect
+  rotate: false
+  xy: 203, 438
+  size: 175, 73
+  orig: 175, 73
+  offset: 0, 0
+  index: -1
+DescNormal
+  rotate: false
+  xy: 1, 175
+  size: 175, 73
+  orig: 175, 73
+  offset: 0, 0
+  index: -1
+DescPlate
+  rotate: false
+  xy: 203, 363
+  size: 175, 73
+  orig: 175, 73
+  offset: 0, 0
+  index: -1
+DescReverse
+  rotate: false
+  xy: 380, 438
+  size: 175, 73
+  orig: 175, 73
+  offset: 0, 0
+  index: -1
+MOMenu2
+  rotate: false
+  xy: 557, 462
+  size: 198, 49
+  orig: 198, 49
+  offset: 0, 0
+  index: -1
+logo2
+  rotate: false
+  xy: 1, 113
+  size: 160, 60
+  orig: 160, 60
+  offset: 0, 0
+  index: -1
+set2
+  rotate: false
+  xy: 380, 376
+  size: 160, 60
+  orig: 160, 60
+  offset: 0, 0
+  index: -1
+set3
+  rotate: false
+  xy: 1, 51
+  size: 160, 60
+  orig: 160, 60
+  offset: 0, 0
+  index: -1
+Numbers2
+  rotate: false
+  xy: 757, 488
+  size: 195, 23
+  orig: 195, 23
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 203, 311
+  size: 135, 50
+  orig: 135, 50
+  offset: 0, 0
+  index: -1
+Button1
+  rotate: false
+  xy: 1, 16
+  size: 144, 33
+  orig: 144, 33
+  offset: 0, 0
+  index: -1
+CrystalMinesName
+  rotate: false
+  xy: 201, 254
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+prtst1
+  rotate: false
+  xy: 557, 445
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtst2
+  rotate: false
+  xy: 757, 471
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtst3
+  rotate: false
+  xy: 380, 359
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtst4
+  rotate: false
+  xy: 757, 454
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtst5
+  rotate: false
+  xy: 557, 428
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+LavaPitsName
+  rotate: false
+  xy: 542, 371
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+putst1
+  rotate: false
+  xy: 163, 38
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+prtstb1
+  rotate: false
+  xy: 517, 354
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+MossyCavesName
+  rotate: false
+  xy: 340, 302
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+prtstb2
+  rotate: false
+  xy: 314, 285
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtstb3
+  rotate: false
+  xy: 314, 268
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtstb4
+  rotate: false
+  xy: 314, 251
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+Settings1
+  rotate: false
+  xy: 453, 299
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+prtstb5
+  rotate: false
+  xy: 516, 337
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtstr1
+  rotate: false
+  xy: 516, 320
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtstr2
+  rotate: false
+  xy: 516, 303
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtstr3
+  rotate: false
+  xy: 516, 286
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+Play2
+  rotate: false
+  xy: 451, 239
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+prtstr4
+  rotate: false
+  xy: 516, 269
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+prtstr5
+  rotate: false
+  xy: 516, 252
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+NoMoves1
+  rotate: false
+  xy: 516, 227
+  size: 108, 23
+  orig: 108, 23
+  offset: 0, 0
+  index: -1
+Numbers
+  rotate: false
+  xy: 1, 6
+  size: 104, 8
+  orig: 104, 8
+  offset: 0, 0
+  index: -1
+bg11
+  rotate: false
+  xy: 653, 252
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+CButton
+  rotate: false
+  xy: 626, 219
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+GButton
+  rotate: false
+  xy: 201, 221
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+RCButton
+  rotate: false
+  xy: 295, 218
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+Gate
+  rotate: false
+  xy: 389, 149
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+MainBG
+  rotate: false
+  xy: 451, 137
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+LevelClear
+  rotate: false
+  xy: 512, 175
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+LevelFailed
+  rotate: false
+  xy: 512, 123
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+SelectLevel
+  rotate: false
+  xy: 604, 167
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+StageClear
+  rotate: false
+  xy: 604, 115
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+putst2
+  rotate: false
+  xy: 696, 82
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putst3
+  rotate: false
+  xy: 713, 82
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putst4
+  rotate: false
+  xy: 180, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putst5
+  rotate: false
+  xy: 197, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstb1
+  rotate: false
+  xy: 214, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstb2
+  rotate: false
+  xy: 231, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstb3
+  rotate: false
+  xy: 248, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstb4
+  rotate: false
+  xy: 265, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstb5
+  rotate: false
+  xy: 282, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstr1
+  rotate: false
+  xy: 299, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstr2
+  rotate: false
+  xy: 316, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstr3
+  rotate: false
+  xy: 333, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstr4
+  rotate: false
+  xy: 350, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+putstr5
+  rotate: false
+  xy: 367, 12
+  size: 15, 135
+  orig: 15, 135
+  offset: 0, 0
+  index: -1
+Holo
+  rotate: false
+  xy: 384, 80
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Holo1
+  rotate: false
+  xy: 384, 11
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Menu5
+  rotate: false
+  xy: 446, 68
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+CrystalMines
+  rotate: false
+  xy: 508, 62
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+CrystalMines1
+  rotate: false
+  xy: 446, 1
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+LavaPits
+  rotate: false
+  xy: 515, 1
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+MossyCaves
+  rotate: false
+  xy: 655, 367
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Door1
+  rotate: false
+  xy: 894, 443
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+Door2
+  rotate: false
+  xy: 178, 176
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+CollectMode
+  rotate: false
+  xy: 180, 149
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+ProgressFrame
+  rotate: false
+  xy: 577, 90
+  size: 88, 23
+  orig: 88, 23
+  offset: 0, 0
+  index: -1
+NormalMode
+  rotate: false
+  xy: 577, 63
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+MuddyPits
+  rotate: false
+  xy: 584, 2
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Crystal
+  rotate: false
+  xy: 667, 87
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Grid
+  rotate: false
+  xy: 966, 461
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Font
+  rotate: false
+  xy: 653, 37
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+QuestionMark
+  rotate: false
+  xy: 653, 1
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+tstbg3
+  rotate: false
+  xy: 695, 30
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PlateMode
+  rotate: false
+  xy: 677, 3
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+ReverseMode
+  rotate: false
+  xy: 753, 427
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+tstbg4
+  rotate: false
+  xy: 829, 402
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+0Stars
+  rotate: false
+  xy: 881, 411
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+1Star
+  rotate: false
+  xy: 881, 379
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+2Stars
+  rotate: false
+  xy: 724, 395
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+3Stars
+  rotate: false
+  xy: 724, 363
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+tstbg5
+  rotate: false
+  xy: 715, 311
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Button2
+  rotate: false
+  xy: 250, 186
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+CheckBox1-on
+  rotate: false
+  xy: 715, 276
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+CheckBox1
+  rotate: false
+  xy: 767, 328
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+MenuButton1
+  rotate: false
+  xy: 694, 440
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+ProgressBar
+  rotate: false
+  xy: 286, 211
+  size: 62, 5
+  orig: 62, 5
+  offset: 0, 0
+  index: -1
+Lock
+  rotate: false
+  xy: 286, 176
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Lock2
+  rotate: false
+  xy: 322, 176
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+GreenCrystal
+  rotate: false
+  xy: 798, 399
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+MenuButton2
+  rotate: false
+  xy: 798, 364
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+NextButton
+  rotate: false
+  xy: 834, 367
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+OkButton1
+  rotate: false
+  xy: 803, 329
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+RetryButton1
+  rotate: false
+  xy: 839, 332
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+CrystalWallCornerDownLeft
+  rotate: false
+  xy: 256, 149
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallCornerDownRight
+  rotate: false
+  xy: 283, 149
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallCornerTopLeft
+  rotate: false
+  xy: 310, 149
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallCornerTopRight
+  rotate: false
+  xy: 337, 149
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GArrowLeft
+  rotate: false
+  xy: 107, 1
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+GArrowRight
+  rotate: false
+  xy: 129, 1
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+SelectButton
+  rotate: false
+  xy: 966, 444
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+MenuButton3
+  rotate: false
+  xy: 715, 259
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+BCrystal5
+  rotate: false
+  xy: 720, 227
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedCrystal
+  rotate: false
+  xy: 358, 190
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+BCrystal7
+  rotate: false
+  xy: 767, 296
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crate
+  rotate: false
+  xy: 875, 347
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crystal1
+  rotate: false
+  xy: 907, 347
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crystal2
+  rotate: false
+  xy: 939, 347
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crystal3
+  rotate: false
+  xy: 875, 315
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crystal4
+  rotate: false
+  xy: 907, 315
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crystal5
+  rotate: false
+  xy: 939, 315
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crystal6
+  rotate: false
+  xy: 730, 195
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Crystal7
+  rotate: false
+  xy: 730, 163
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+GCrystal1
+  rotate: false
+  xy: 730, 131
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+GCrystal2
+  rotate: false
+  xy: 730, 99
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+GCrystal3
+  rotate: false
+  xy: 955, 411
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+GCrystal4
+  rotate: false
+  xy: 955, 379
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+GCrystal5
+  rotate: false
+  xy: 971, 347
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PC1
+  rotate: false
+  xy: 971, 315
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PC2
+  rotate: false
+  xy: 987, 412
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PC3
+  rotate: false
+  xy: 987, 380
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Back1
+  rotate: false
+  xy: 178, 231
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+CArrowLeft
+  rotate: false
+  xy: 147, 40
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+CArrowRight
+  rotate: false
+  xy: 751, 300
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+PR1
+  rotate: false
+  xy: 751, 264
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PR2
+  rotate: false
+  xy: 752, 232
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PR3
+  rotate: false
+  xy: 762, 200
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PX1
+  rotate: false
+  xy: 762, 168
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PX2
+  rotate: false
+  xy: 762, 136
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+PX3
+  rotate: false
+  xy: 762, 104
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedCrystal1
+  rotate: false
+  xy: 783, 264
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedCrystal2
+  rotate: false
+  xy: 784, 232
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedCrystal3
+  rotate: false
+  xy: 794, 200
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedCrystal4
+  rotate: false
+  xy: 794, 168
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedCrystal5
+  rotate: false
+  xy: 794, 136
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+RedCrystal6
+  rotate: false
+  xy: 794, 104
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ArrowLeft1
+  rotate: false
+  xy: 730, 83
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+CrystalWallDown
+  rotate: false
+  xy: 747, 72
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallDownLeft
+  rotate: false
+  xy: 747, 45
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallDownRight
+  rotate: false
+  xy: 774, 77
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallFull
+  rotate: false
+  xy: 774, 50
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallHor
+  rotate: false
+  xy: 801, 77
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallHorL
+  rotate: false
+  xy: 801, 50
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+ArrowRight1
+  rotate: false
+  xy: 1001, 445
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+CrystalWallHorLeft
+  rotate: false
+  xy: 753, 18
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallHorR
+  rotate: false
+  xy: 780, 23
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallHorRight
+  rotate: false
+  xy: 807, 23
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+lvl
+  rotate: false
+  xy: 780, 5
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+RCArrowLeft
+  rotate: false
+  xy: 694, 429
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+RCArrowRight
+  rotate: false
+  xy: 151, 1
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+EmptyStar
+  rotate: false
+  xy: 151, 12
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+CrystalWallLeft
+  rotate: false
+  xy: 799, 301
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallRight
+  rotate: false
+  xy: 826, 302
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallUp
+  rotate: false
+  xy: 815, 274
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallUpLeft
+  rotate: false
+  xy: 816, 247
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallUpRight
+  rotate: false
+  xy: 842, 275
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallVer
+  rotate: false
+  xy: 843, 248
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallVerD
+  rotate: false
+  xy: 869, 288
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallVerDown
+  rotate: false
+  xy: 896, 288
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallVerU
+  rotate: false
+  xy: 923, 288
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+CrystalWallVerUp
+  rotate: false
+  xy: 950, 288
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallCornerDownLeft
+  rotate: false
+  xy: 977, 288
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallCornerDownRight
+  rotate: false
+  xy: 870, 261
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallCornerTopLeft
+  rotate: false
+  xy: 897, 261
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallCornerTopRight
+  rotate: false
+  xy: 924, 261
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallDown
+  rotate: false
+  xy: 951, 261
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallDownLeft
+  rotate: false
+  xy: 978, 261
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallDownRight
+  rotate: false
+  xy: 870, 234
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallFull
+  rotate: false
+  xy: 897, 234
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallHor
+  rotate: false
+  xy: 924, 234
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallHorL
+  rotate: false
+  xy: 951, 234
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallHorLeft
+  rotate: false
+  xy: 978, 234
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallHorR
+  rotate: false
+  xy: 843, 221
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallHorRight
+  rotate: false
+  xy: 870, 207
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallLeft
+  rotate: false
+  xy: 897, 207
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallRight
+  rotate: false
+  xy: 924, 207
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallUp
+  rotate: false
+  xy: 951, 207
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallUpLeft
+  rotate: false
+  xy: 978, 207
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallUpRight
+  rotate: false
+  xy: 826, 194
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallVer
+  rotate: false
+  xy: 826, 167
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallVerD
+  rotate: false
+  xy: 826, 140
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallVerDown
+  rotate: false
+  xy: 826, 113
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallVerU
+  rotate: false
+  xy: 828, 86
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+GCrystalWallVerUp
+  rotate: false
+  xy: 828, 59
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Plate1
+  rotate: false
+  xy: 834, 32
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Plate2
+  rotate: false
+  xy: 853, 180
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Plate3
+  rotate: false
+  xy: 853, 153
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallCornerDownLeft
+  rotate: false
+  xy: 880, 180
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallCornerDownRight
+  rotate: false
+  xy: 853, 126
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallCornerTopLeft
+  rotate: false
+  xy: 880, 153
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallCornerTopRight
+  rotate: false
+  xy: 907, 180
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallDown
+  rotate: false
+  xy: 880, 126
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallDownLeft
+  rotate: false
+  xy: 907, 153
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallDownRight
+  rotate: false
+  xy: 934, 180
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallFull
+  rotate: false
+  xy: 907, 126
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallHor
+  rotate: false
+  xy: 934, 153
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallHorL
+  rotate: false
+  xy: 961, 180
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallHorLeft
+  rotate: false
+  xy: 934, 126
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallHorR
+  rotate: false
+  xy: 961, 153
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallHorRight
+  rotate: false
+  xy: 961, 126
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallLeft
+  rotate: false
+  xy: 988, 180
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallRight
+  rotate: false
+  xy: 988, 153
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallUp
+  rotate: false
+  xy: 988, 126
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallUpLeft
+  rotate: false
+  xy: 855, 99
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallUpRight
+  rotate: false
+  xy: 855, 72
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallVer
+  rotate: false
+  xy: 882, 99
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallVerD
+  rotate: false
+  xy: 882, 72
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallVerDown
+  rotate: false
+  xy: 909, 99
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallVerU
+  rotate: false
+  xy: 909, 72
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RCrystalWallVerUp
+  rotate: false
+  xy: 936, 99
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+RedCrystal7
+  rotate: false
+  xy: 936, 72
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Selected
+  rotate: false
+  xy: 963, 99
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Skull
+  rotate: false
+  xy: 963, 72
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+tstbg
+  rotate: false
+  xy: 990, 99
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+tstbg2
+  rotate: false
+  xy: 990, 72
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+V
+  rotate: false
+  xy: 861, 45
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+X
+  rotate: false
+  xy: 888, 45
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 915, 46
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ProgressPoint
+  rotate: false
+  xy: 715, 252
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 295, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
